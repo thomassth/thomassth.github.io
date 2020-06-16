@@ -1,20 +1,37 @@
 # Welcome to my GitHub.
 
-## Tinkering now
-[CR000](https://thomassth.github.io/AnyoneInThere/)
+## Previous Projects
+### [Anyone In There](https://thomassth.github.io/AnyoneInThere/)
 
-Simple "Anyone in there" indicator. (Not running on GitHub, backend using Heroku and Cloudinary.)
+Tiny web app. Indicates a room is occupied or not (manually).
 
-[CR001](https://www.microsoft.com/store/apps/9NZXCK5WDCXC)
+Running on Heroku with Cloudinary for remote storage. Not working on GitHub.
 
-UWP wrapper for FFMPEG formula, merging 1 audio and 1 image to 1 video (ie. Podcast publishing). On Microsoft Store.
+### [Podcast to video](https://www.microsoft.com/store/apps/9NZXCK5WDCXC)
 
-[CR002](https://thomassth.github.io/CR002/) 
+UWP wrapper for an FFMPEG formula.
+Merging 1 audio and 1 image to 1 video (ie. Podcast publishing). 
+Now on Microsoft Store.
 
-Ticker for OBS, but much more flexible than the one built in.
+### [News ticker](https://thomassth.github.io/CR002/) 
 
-## Old project
+Suitable for OBS studio.
 
-Campus Radio Web (2017)
+Instead of slowly scrolling past, each headline is shown for a few seconds, then to the next. 
 
-5 steps hand washing learning web app (2016)
+Minimalist theming, like FranceInfo instead of CNN.
+
+## Older projects (not in display)
+
+### Campus Radio Web (2017)
+
+Website done for a student media. With latest update, live blogging and podcast RSS.
+
+Website defunct due to focus shifted to Facebook
+
+
+### 5 steps hand washing learning web app (2016)
+
+Website done for academic study.
+
+Website offline as project finished.
