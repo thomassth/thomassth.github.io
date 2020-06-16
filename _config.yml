@@ -1,8 +1,8 @@
 title: Thomas did something.
 author: Thomas K.
 email: thomassth@users.noreply.github.com
-description: > # this means to ignore newlines until "baseurl:"
-  Making upp stuff as I go.
+description: | # this means to ignore newlines until "baseurl:"
+  Making up stuff as I go.
   Learning codes left and right.
   Building small things, helping others.
 # social links
