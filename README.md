@@ -1,3 +1,9 @@
+# Hi! I'm Thomas.
+
+I'm actively looking for a job in programming! Anywhere around Toronto, Canada works for me. 
+
+Remote work in the NA timezones also works for me, as long as you can hire someone in Canada.
+
 ## Languages & tools I learnt
 
 - HTML
@@ -17,7 +23,7 @@
 
 ### [Handwashing education site](https://nsw-students-mental-health.glitch.me/)
 
-Working with UNSW, this is a special project helping children, parents and teachers alike accessing important resources to prevent COVID-19.
+Working with The University of Newcastle, this is a special project helping children, parents and teachers alike accessing important resources to prevent COVID-19.
 
 Beside creating website and building an interactive quiz, I have also assisted in research and completing the website's content.
 
