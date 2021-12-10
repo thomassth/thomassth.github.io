@@ -1,6 +1,34 @@
-# Welcome to my GitHub.
+## Languages & tools I learnt
 
-## Previous Projects
+- HTML
+- Wordpress
+- React
+- jQuery
+- Regex
+- CSS
+- JS
+- Flutter
+- Kotlin
+- Swift
+- C#
+- excel (surprisingly few people does)
+
+## Previous Works
+
+### [Handwashing education site](https://nsw-students-mental-health.glitch.me/)
+
+Working with UNSW, this is a special project helping children, parents and teachers alike accessing important resources to prevent COVID-19.
+
+Beside creating website and building an interactive quiz, I have also assisted in research and completing the website's content.
+
+### [Duty Robin](https://play.google.com/store/apps/details?id=com.thomassth.dutyrobin)
+
+Finally, an app that helps first-line workers adding and visualizing their shifting schedules. 
+
+(You won't believe how many workarounds we needed to come up with!)
+
+Available on Android. iOS coming soon.
+
 ### [Anyone In There](https://thomassth.github.io/AnyoneInThere/)
 
 Tiny web app. Indicates a room is occupied or not (manually).
